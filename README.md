@@ -26,5 +26,24 @@ __Functionality__
 
 
 __Limitation__
->an API key is required before usage. Free registration allows access up to 5 request/minute. A Premium API key is also on offer from AlphaVantage for unlimited usage.
+>an API key is required before usage. Free registration allows access up to 5 request/minute. A Premium API key is also on offer from AlphaVantage for unlimited usage. 
+
+
+
+__Software Requirements__
+
+>You will need the following:
+
+>AlphaVantage free API account:
+
+> https://www.alphavantage.co/support/#api-key
+
+>AlphaVantagerb RubyGem: 
+
+> https://rubygems.org/gems/alphavantagerb
+
+>Terminal-table RubyGem:
+
+>https://rubygems.org/gems/terminal-table
+
 
